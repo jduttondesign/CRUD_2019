@@ -5,6 +5,9 @@ body {
     padding-bottom: 20px;
 }
 
+.box{
+    align-content:center;
+}
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
